@@ -1,6 +1,21 @@
-# Learna-AI
+## 📘 Project Overview
 
-**Learna-AI** is an AI-powered Learning Assistant built to help users interactively learn and practice concepts using modern AI technologies. It provides a responsive frontend, an API backend, authentication, and integrations with AI services to deliver intelligent feedback and assistance.
+Learna-AI is a **full-stack AI Learning Assistant** built to enhance the way users study, explore concepts, and interact with educational content. The platform leverages modern web technologies and AI integrations to deliver **context-aware, conversational learning experiences** through an intuitive and responsive interface.
+
+The application is designed with scalability and modularity in mind, featuring a **React-based frontend** for seamless user interaction and a **Node.js + Express backend** that handles authentication, data persistence, and AI-powered processing. MongoDB is used for efficient storage of user data, sessions, and learning interactions.
+
+Learna-AI enables learners to ask questions, receive intelligent explanations, and engage in guided learning conversations. By combining secure authentication, structured APIs, and AI services, the system ensures both **personalized learning** and **data security**.
+
+The architecture supports easy extension—new AI models, learning modules, or third-party integrations can be added with minimal refactoring. This makes Learna-AI suitable for individual learners, educational platforms, and future production-grade deployments.
+
+Key goals of the project include:
+- Improving learning efficiency through conversational AI
+- Providing a clean, distraction-free learning interface
+- Ensuring secure and scalable backend operations
+- Offering a flexible foundation for future AI enhancements
+
+Learna-AI demonstrates practical implementation of **AI-assisted education**, modern authentication workflows, and real-world full-stack application design.
+
 
 ---
 
