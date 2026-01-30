@@ -6,14 +6,6 @@ The application is designed with scalability and modularity in mind, featuring a
 
 Learna-AI enables learners to ask questions, receive intelligent explanations, and engage in guided learning conversations. By combining secure authentication, structured APIs, and AI services, the system ensures both **personalized learning** and **data security**.
 
-The architecture supports easy extension—new AI models, learning modules, or third-party integrations can be added with minimal refactoring. This makes Learna-AI suitable for individual learners, educational platforms, and future production-grade deployments.
-
-Key goals of the project include:
-- Improving learning efficiency through conversational AI
-- Providing a clean, distraction-free learning interface
-- Ensuring secure and scalable backend operations
-- Offering a flexible foundation for future AI enhancements
-
 Learna-AI demonstrates practical implementation of **AI-assisted education**, modern authentication workflows, and real-world full-stack application design.
 
 
