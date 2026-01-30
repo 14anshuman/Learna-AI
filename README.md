@@ -68,3 +68,18 @@ NODE_ENV=development
 MAX_FILE_SIZE=<Max upload size in bytes>
 GOOGLE_API_KEY=<API key for Google services>
 ```
+---
+
+## 🚀 Installation & Setup
+
+Follow the steps below to run **Learna-AI** locally.
+
+---
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/14anshuman/Learna-AI.git
+cd Learna-AI
+```
+
