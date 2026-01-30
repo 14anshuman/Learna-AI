@@ -34,6 +34,7 @@
 │ ├── controllers/ # Route handlers & business logic
 │ ├── models/ # Database schemas (MongoDB)
 │ ├── routes/ # API route definitions
+│ ├── config/ 
 │ ├── middleware/ # Auth, error handlers, etc.
 │ ├── utils/ # Utility modules & helpers
 │ └── server.js # Backend entry point
@@ -43,10 +44,27 @@
 │ ├── src/
 │ │ ├── components/ # Reusable UI components
 │ │ ├── pages/ # Page views
+| │ ├── utils/ 
+│ | ├── context/
 │ │ ├── services/ # API service wrappers
-│ │ ├── App.js # Main app
-│ │ └── index.js # React entry
+│ │ ├── App.jsx # Main app
+│ │ └── main.jsx
+│ ├── index.html/ 
 │ └── package.json
 
 ```
 
+---
+
+## ⚙️ Environment Variables
+
+Create a `.env` file in **backend** and configure the following:
+
+```env
+MONGO_URI=<Your MongoDB connection string>
+PORT=<Server port, e.g., 5000>
+JWT_SECRET=<Your JWT secret key>
+NODE_ENV=development
+MAX_FILE_SIZE=<Max upload size in bytes>
+GOOGLE_API_KEY=<API key for Google services>
+```
