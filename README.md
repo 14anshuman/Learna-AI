@@ -102,9 +102,9 @@ http://localhost:5173
 
 ```
 ## ✅ Prerequisites
---Node.js (v16 or later)
---npm or yarn
---MongoDB (local or MongoDB Atlas)
---Valid Google API Key
+- Node.js (v16 or later)
+- npm or yarn
+- MongoDB (local or MongoDB Atlas)
+- Valid Google API Key
 
 
