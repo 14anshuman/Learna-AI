@@ -32,6 +32,7 @@ Learna-AI demonstrates practical implementation of **AI-assisted education**, mo
 | Authentication | JSON Web Tokens (JWT) |
 | AI Integration | Gemini-API |
 | Deployment | Vercel / Render / Heroku / Custom |
+| Containerization | Docker |
 
 ---
 
