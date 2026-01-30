@@ -82,4 +82,29 @@ Follow the steps below to run **Learna-AI** locally.
 git clone https://github.com/14anshuman/Learna-AI.git
 cd Learna-AI
 ```
+### 2️⃣ Backend Setup cd backend
+
+```bash
+cd backend
+npm install
+
+Start backend server
+npm run dev
+```
+### 3️⃣ Frontend Setup (React)
+```bash
+cd ../frontend/ai-learning-assistant
+npm install
+npm start
+
+Frontend will run at
+http://localhost:5173
+
+```
+## ✅ Prerequisites
+--Node.js (v16 or later)
+--npm or yarn
+--MongoDB (local or MongoDB Atlas)
+--Valid Google API Key
+
 
